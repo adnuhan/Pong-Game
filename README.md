@@ -1,5 +1,4 @@
-
-# Pong The Famous Arcade Game
+# Pong the Famous Arcade Game
 
 ![preview](https://github.com/NahundaBekele/Pong-Game/assets/138674654/2d197d15-2d1e-4a4d-8783-87620ff80855)
 
@@ -22,12 +21,15 @@ This project implements the classic Pong game using Python's turtle module. It's
     ```bash
     git clone https://github.com/NahundaBekele/Pong-Game.git
     ```
-  Alternatively, you can download the ZIP file and extract it.
-3. **Run the Game**: Navigate to the project directory and execute the Python script:
+    Alternatively, you can download the ZIP file and extract it.
+
+3. **Navigate to the project directory**:
 
     ```bash
     cd Pong-Game
     ```
+
+4. **Execute the Python script**:
 
     ```bash
     main.py
@@ -52,8 +54,9 @@ This project provides a solid foundation for you to experiment and add more feat
 
 ## Acknowledgements:
 
-- I would like to express my deepest appreciation to **Dr. Angela Yu**, whose guidance and instruction through the "100 Days of Code" course were invaluable to the completion of this project.
+- I would like to express my deepest appreciation to **Dr. Angela Yu**, whose guidance and instruction through the "**100 Days of Code**" course were invaluable to the completion of this project.
 - Thanks to the Python and Turtle communities for their great documentation and support
 
 ## Author:
- **Nahunda Bekele (https://github.com/NahundaBekele)**
+ **Nahunda Bekele** (https://github.com/NahundaBekele)
+
