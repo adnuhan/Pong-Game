@@ -26,8 +26,13 @@ This project implements the classic Pong game using Python's turtle module. It's
 3. **Run the Game**: Navigate to the project directory and execute the Python script:
 
     ```bash
+    cd Pong-Game
+    ```
+
+    ```bash
     main.py
     ```
+
 ## Controls:
 
 - Player 1 controls the left paddle with the 'W' and 'S' keys.
@@ -47,7 +52,7 @@ This project provides a solid foundation for you to experiment and add more feat
 
 ## Acknowledgements:
 
-- blah blah blah
+- I would like to express my deepest appreciation to **Dr. Angela Yu**, whose guidance and instruction through the "100 Days of Code" course were invaluable to the completion of this project.
 - Thanks to the Python and Turtle communities for their great documentation and support
 
 ## Author:
