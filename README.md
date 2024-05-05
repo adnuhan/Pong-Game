@@ -9,15 +9,13 @@ This project implements the classic Pong game using Python's turtle module. It's
 
 ## Features:
 
-- xcds
-  ## Features
-- Simple and intuitive gameplay.
-- Score tracking for each player.
-- Sound effects for paddle and wall collisions.
+- **Two Player Support**: Play against your friends.
+- **AI Opponent**: Practice against the Computer, single-player experience.
+- **Keyboard Controls**: Intuitive controls for smooth paddle movement. (Up/Down and W/S keys).
+- **Simple Scoring System**: Keep track of your progress and aim for the win.
 
-Features:
-•	Two Player Support: Challenge a friend or practice against the computer (optional AI implementation).
-•	Keyboard Controls: Intuitive controls for smooth paddle movement (specify the keys used).
-•	Simple Scoring System: Keep track of your progress and aim for the win.
-•	Customizable Gameplay (Optional): 
-o	Adjust game speed, paddle size, ball behavior, or incorporate additional features as desired.
+## Optional Enhancements:
+This project provides a solid foundation for you to experiment and add more features. Here are some ideas:
+
+- Sound Effects: Enhance immersion with basic sound effects (e.g., paddle hits, ball bounces).
+- Visual Enhancements: Create a more visually appealing game with background graphics, different paddle shapes, or particle effects.
